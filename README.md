@@ -2,7 +2,7 @@
 <html land="en">
     <head>
     <meta charset="UFT-8">
-        <title>ГДЗ</title>
+        <title>гдз</title>
       <table><tr> <td><nav><a href="https://4book.org/uchebniki-ukraina">книжки</a></td>
         <td> <nav><a href="https://4book.org/dpa-otvety-4-klass">ДПА</a></td>
         <td>   <nav><a href="https://4book.org/zno">ЗНО</a>  </td>
